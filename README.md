@@ -37,7 +37,12 @@ _Plotting_
 **SQL**
 
 _Basics_
- * [Example SQL query]()
- * [Using SQLite from the Terminal]()
- * [Add rows to table]()
- * [Join tables on common column]()
+ * [Example SQL query](https://github.com/tttgm/code-snippets/blob/master/SQL/example_sql_query.py)
+ * [Sub-queries in SQL](https://github.com/tttgm/code-snippets/blob/master/SQL/subquery_sql_example.py)
+ * [Using SQLite from the Terminal](https://github.com/tttgm/code-snippets/blob/master/SQL/sqlite_in_terminal.py)
+ * [Add rows to table](https://github.com/tttgm/code-snippets/blob/master/SQL/add_rows_to_table_sql.py)
+ * [Join tables on common column](https://github.com/tttgm/code-snippets/blob/master/SQL/join_tables_sql.py)
+ * [Creating and dropping databases in an application](https://github.com/tttgm/code-snippets/blob/master/SQL/creating_and_dropping_databases.py)
+ * [Declaring primary keys](https://github.com/tttgm/code-snippets/blob/master/SQL/declaring_primary_keys.py)
+ * [Declaring foreign keys](https://github.com/tttgm/code-snippets/blob/master/SQL/declaring_relationships_between_tables.py)
+ * [Using SQL in Python with a DB-API](https://github.com/tttgm/code-snippets/blob/master/SQL/using_database_APIs.py)
