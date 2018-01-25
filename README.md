@@ -9,6 +9,10 @@ _Anaconda_
 
 _Basics_
  * [Datetime Conversion](https://github.com/tttgm/code-snippets/blob/master/python-basics/datetime_conversion.py)
+ * [Read csv using DictReader()](https://github.com/tttgm/code-snippets/blob/master/python-basics/read_csv_to_dict.py)
+ * [Read Excel files using xlrd](https://github.com/tttgm/code-snippets/blob/master/python-basics/read_excel_with_xlrd.py)
+ * [Parse XML with ElementTree](https://github.com/tttgm/code-snippets/blob/master/python-basics/read_xml_with_elementtree.py)
+ * [Make HTTP requests with BeautifulSoup](https://github.com/tttgm/code-snippets/blob/master/python-basics/http_requests_with_beautifulsoup.py)
 
 _Pandas_
  * [Indexing 2D Array](https://github.com/tttgm/code-snippets/blob/master/pandas/indexing_pandas_array.py)
@@ -30,3 +34,10 @@ _Plotting_
  * [Scatterplot matrix](https://github.com/tttgm/code-snippets/blob/master/R-basics/scatterplot_matrix.py)
  * [Plotting with maps](https://github.com/tttgm/code-snippets/blob/master/R-basics/plotting_with_maps.py)
 
+**SQL**
+
+_Basics_
+ * [Example SQL query]()
+ * [Using SQLite from the Terminal]()
+ * [Add rows to table]()
+ * [Join tables on common column]()
