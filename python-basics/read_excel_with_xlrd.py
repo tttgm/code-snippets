@@ -1,5 +1,18 @@
 ### READING EXCEL FILES WITH XLRD ###
 
+"""
+There are 3 main libraries that can handle Excel files:
+
+    xlrd (reads Excel files)
+    xlwt (writes and formats Excel files)
+    xlutils (some more advanced operations)
+
+Note that these libraries may not be inlcuded in the standard library, and so may require installation before use.
+
+e.g.    run 'pip install xlrd' in Terminal
+
+"""
+
 import xlrd     
 # the 'rd' stands for 'read only', there is also a module 'wt' that allows you to write files
 
