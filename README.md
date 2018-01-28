@@ -12,7 +12,12 @@ _Basics_
  * [Read csv using DictReader()](https://github.com/tttgm/code-snippets/blob/master/python-basics/read_csv_to_dict.py)
  * [Read Excel files using xlrd](https://github.com/tttgm/code-snippets/blob/master/python-basics/read_excel_with_xlrd.py)
  * [Parse XML with ElementTree](https://github.com/tttgm/code-snippets/blob/master/python-basics/read_xml_with_elementtree.py)
+ * [Parse JSON using json module](https://github.com/tttgm/code-snippets/blob/master/python-basics/read_json.py)
+ * [Check collections for duplicates using sets](https://github.com/tttgm/code-snippets/blob/master/python-basics/checking_for_duplicates.py)
+ * [Fuzzy string matching using fuzzywuzzy](https://github.com/tttgm/code-snippets/blob/master/python-basics/fuzzy_matching.py)
  * [Make HTTP requests with BeautifulSoup](https://github.com/tttgm/code-snippets/blob/master/python-basics/http_requests_with_beautifulsoup.py)
+ * [Writing data to csv](https://github.com/tttgm/code-snippets/blob/master/python-basics/writing_data_to_csv.py)
+ * [Writing data to a SQL table](https://github.com/tttgm/code-snippets/blob/master/python-basics/writing_data_to_sql.py)
 
 _Pandas_
  * [Indexing 2D Array](https://github.com/tttgm/code-snippets/blob/master/pandas/indexing_pandas_array.py)
