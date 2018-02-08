@@ -32,6 +32,9 @@ _Pandas_
  * [Apply function to column with .applymap()](https://github.com/tttgm/code-snippets/blob/master/pandas/apply_func_with_applymap.py)
  * [Import SQL table to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/sql-table_to_dataframe.py)
 
+_Machine Learning_
+ * [Encoding categorical variables for use in sklearn](https://github.com/tttgm/code-snippets/blob/master/machine-learning/encode_variables.py)
+
 **R**
 
 _Basics_
