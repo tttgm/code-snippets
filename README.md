@@ -17,12 +17,22 @@ _Basics_
  * [Fuzzy string matching using fuzzywuzzy](https://github.com/tttgm/code-snippets/blob/master/python-basics/fuzzy_matching.py)
  * [Setting default dictionary values with defaultdict()](https://github.com/tttgm/code-snippets/blob/master/python-basics/default_dicts.py)
  * [Tuple basics](https://github.com/tttgm/code-snippets/blob/master/python-basics/tuple_basics.py)
+ * [Named tuples](https://github.com/tttgm/code-snippets/blob/master/python-basics/named_tuples.py)
  * [Lambda (or anonymous) function example](https://github.com/tttgm/code-snippets/blob/master/python-basics/lambda_functions.py)
  * [List comprehension examples](https://github.com/tttgm/code-snippets/blob/master/python-basics/list_comprehensions.py)
+ * [List manipulation](https://github.com/tttgm/code-snippets/blob/master/python-basics/list_manipulation.py)
+ * [Dict comprehension examples](https://github.com/tttgm/code-snippets/blob/master/python-basics/dict_comprehension.py)
+ * [Dict iteration](https://github.com/tttgm/code-snippets/blob/master/python-basics/dict_iteration.py)
+ * [Iterable striding](https://github.com/tttgm/code-snippets/blob/master/python-basics/iterable_striding.py)
+ * [Starred expressions for collection unpacking](https://github.com/tttgm/code-snippets/blob/master/python-basics/starred_expressions.py)
+ * [Custom class example](https://github.com/tttgm/code-snippets/blob/master/python-basics/custom_class_example.py)
+ * [Class inheritance example](https://github.com/tttgm/code-snippets/blob/master/python-basics/class_inheritance_example.py)
  * [Zipping with the zip function](https://github.com/tttgm/code-snippets/blob/master/python-basics/zip_function.py)
+ * [File walking with the OS module](https://github.com/tttgm/code-snippets/blob/master/python-basics/file_walking_os_module.py)
  * [Make HTTP requests with BeautifulSoup](https://github.com/tttgm/code-snippets/blob/master/python-basics/http_requests_with_beautifulsoup.py)
  * [Writing data to csv](https://github.com/tttgm/code-snippets/blob/master/python-basics/writing_data_to_csv.py)
  * [Writing data to a SQL table](https://github.com/tttgm/code-snippets/blob/master/python-basics/writing_data_to_sql.py)
+ * [Recursive function example](https://github.com/tttgm/code-snippets/blob/master/python-basics/recursive_function_example.py)
 
 _Pandas_
  * [Indexing 2D Array](https://github.com/tttgm/code-snippets/blob/master/pandas/indexing_pandas_array.py)
@@ -34,6 +44,9 @@ _Pandas_
 
 _Machine Learning_
  * [Encoding categorical variables for use in sklearn](https://github.com/tttgm/code-snippets/blob/master/machine-learning/encode_variables.py)
+ * [Generic classification model in sklearn](https://github.com/tttgm/code-snippets/blob/master/machine-learning/generic_classification_func_sklearn.py)
+ * [Basic linear and logistic regression in sklearn](https://github.com/tttgm/code-snippets/blob/master/machine-learning/linear_logistic_regression.py)
+ * [Get feature 'importances'](https://github.com/tttgm/code-snippets/blob/master/machine-learning/get_feature_importances.py)
 
 **R**
 
