@@ -33,6 +33,7 @@ _Basics_
  * [Writing data to csv](https://github.com/tttgm/code-snippets/blob/master/python-basics/writing_data_to_csv.py)
  * [Writing data to a SQL table](https://github.com/tttgm/code-snippets/blob/master/python-basics/writing_data_to_sql.py)
  * [Recursive function example](https://github.com/tttgm/code-snippets/blob/master/python-basics/recursive_function_example.py)
+ * ['Magic' commands in Jupyter Notebook](https://github.com/tttgm/code-snippets/blob/master/python-basics/jupyter_magic_commands.py)
 
 _Pandas_
  * [Indexing 2D Array](https://github.com/tttgm/code-snippets/blob/master/pandas/indexing_pandas_array.py)
