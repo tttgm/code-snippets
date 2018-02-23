@@ -34,12 +34,20 @@ _Basics_
  * [Writing data to a SQL table](https://github.com/tttgm/code-snippets/blob/master/python-basics/writing_data_to_sql.py)
  * [Recursive function example](https://github.com/tttgm/code-snippets/blob/master/python-basics/recursive_function_example.py)
  * ['Magic' commands in Jupyter Notebook](https://github.com/tttgm/code-snippets/blob/master/python-basics/jupyter_magic_commands.py)
+ * [Timing code and executions in Jupyter Notebooks](https://github.com/tttgm/code-snippets/blob/master/python-basics/timing_code.py)
+ * [Interacting with the base shell os in Jupyter NoteBook](https://github.com/tttgm/code-snippets/blob/master/python-basics/interacting_with_os.py)
+ 
+_NumPy_
+ * [Vectorized conditionals in np arrays](https://github.com/tttgm/code-snippets/blob/master/python-basics/conditionals_numpy.py)
+ * [Type-casting in np arrays](https://github.com/tttgm/code-snippets/blob/master/python-basics/type_casting_in_numpy.py)
+ * ['Universal' functions for rapid elementwise operations in np arrays](https://github.com/tttgm/code-snippets/blob/master/python-basics/universal_funcs_numpy.py)
 
 _Pandas_
  * [Indexing 2D Array](https://github.com/tttgm/code-snippets/blob/master/pandas/indexing_pandas_array.py)
  * [Adding row indexes to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/adding_row_indexes.py)
  * [Import csv to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/csv_to_dataframe.py)
  * [Handle missing entries in a dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/handle_missing_entries.py)
+ * [Delete a row or column from a dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/del_row_or_column.py)
  * [Apply function to column with .applymap()](https://github.com/tttgm/code-snippets/blob/master/pandas/apply_func_with_applymap.py)
  * [Import SQL table to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/sql-table_to_dataframe.py)
 
