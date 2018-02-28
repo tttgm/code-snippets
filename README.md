@@ -44,11 +44,15 @@ _NumPy_
 
 _Pandas_
  * [Indexing 2D Array](https://github.com/tttgm/code-snippets/blob/master/pandas/indexing_pandas_array.py)
+ * [Slicing and indexing dataframes](https://github.com/tttgm/code-snippets/blob/master/pandas/label_indexing_ix.py)
  * [Adding row indexes to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/adding_row_indexes.py)
  * [Import csv to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/csv_to_dataframe.py)
- * [Handle missing entries in a dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/handle_missing_entries.py)
+ * [Handle missing entries in a dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/handling_missing_data.py)
  * [Delete a row or column from a dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/del_row_or_column.py)
  * [Apply function to column with .applymap()](https://github.com/tttgm/code-snippets/blob/master/pandas/apply_func_with_applymap.py)
+ * [Apply function elementwise to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/function_mapping.py)
+ * [Sorting and ordering dataframe values](https://github.com/tttgm/code-snippets/blob/master/pandas/sorting_and_ordering.py)
+ * [Uniques, counts, and membership testing](https://github.com/tttgm/code-snippets/blob/master/pandas/unique_counts_membership.py)
  * [Import SQL table to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/sql-table_to_dataframe.py)
 
 _Machine Learning_
