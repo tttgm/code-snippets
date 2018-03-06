@@ -48,11 +48,17 @@ _Pandas_
  * [Adding row indexes to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/adding_row_indexes.py)
  * [Import csv to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/csv_to_dataframe.py)
  * [Handle missing entries in a dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/handling_missing_data.py)
+ * [Checking for duplicated data](https://github.com/tttgm/code-snippets/blob/master/pandas/duplicated_data.py)
  * [Delete a row or column from a dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/del_row_or_column.py)
+ * [Binning continuous data](https://github.com/tttgm/code-snippets/blob/master/pandas/binning_in_pandas.py)
  * [Apply function to column with .applymap()](https://github.com/tttgm/code-snippets/blob/master/pandas/apply_func_with_applymap.py)
  * [Apply function elementwise to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/function_mapping.py)
+ * [Replacing values in a dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/replace_values.py)
  * [Sorting and ordering dataframe values](https://github.com/tttgm/code-snippets/blob/master/pandas/sorting_and_ordering.py)
+ * [Combining, merging, and concatenating dataframes](https://github.com/tttgm/code-snippets/blob/master/pandas/combining_and_merging_dfs.py)
+ * [Reshaping & pivoting dataframes](https://github.com/tttgm/code-snippets/blob/master/pandas/reshape_and_pivot.py)
  * [Uniques, counts, and membership testing](https://github.com/tttgm/code-snippets/blob/master/pandas/unique_counts_membership.py)
+ * [Creating dummy variable columns](https://github.com/tttgm/code-snippets/blob/master/pandas/create_dummy_variables.py)
  * [Import SQL table to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/sql-table_to_dataframe.py)
 
 _Machine Learning_
