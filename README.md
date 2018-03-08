@@ -51,7 +51,7 @@ _Pandas_
  * [Checking for duplicated data](https://github.com/tttgm/code-snippets/blob/master/pandas/duplicated_data.py)
  * [Delete a row or column from a dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/del_row_or_column.py)
  * [Binning continuous data](https://github.com/tttgm/code-snippets/blob/master/pandas/binning_in_pandas.py)
- * [Apply function to column with .applymap()](https://github.com/tttgm/code-snippets/blob/master/pandas/apply_func_with_applymap.py)
+ * [Apply function to data with .applymap(), .apply(), or .map()](https://github.com/tttgm/code-snippets/blob/master/pandas/apply_func_with_applymap.py)
  * [Apply function elementwise to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/function_mapping.py)
  * [Replacing values in a dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/replace_values.py)
  * [Sorting and ordering dataframe values](https://github.com/tttgm/code-snippets/blob/master/pandas/sorting_and_ordering.py)
@@ -60,6 +60,11 @@ _Pandas_
  * [Uniques, counts, and membership testing](https://github.com/tttgm/code-snippets/blob/master/pandas/unique_counts_membership.py)
  * [Creating dummy variable columns](https://github.com/tttgm/code-snippets/blob/master/pandas/create_dummy_variables.py)
  * [Import SQL table to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/sql-table_to_dataframe.py)
+ * [Simple groupby() operation example](https://github.com/tttgm/code-snippets/blob/master/pandas/basic_groupby_operation.py)
+ * [Apply func to groupby object](https://github.com/tttgm/code-snippets/blob/master/pandas/applying_to_groupby.py)
+ * [Selecting and indexing a groupby object](https://github.com/tttgm/code-snippets/blob/master/pandas/indexing_and_selecting_groupbys.py)
+ * [Iterating and extracting from groupby objects](https://github.com/tttgm/code-snippets/blob/master/pandas/iterating_groupby_objects.py)
+ * [Mulitple aggregation func's called on grouped data](https://github.com/tttgm/code-snippets/blob/master/pandas/multiple_aggregation_functions.py)
 
 _Machine Learning_
  * [Encoding categorical variables for use in sklearn](https://github.com/tttgm/code-snippets/blob/master/machine-learning/encode_variables.py)
