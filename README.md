@@ -26,6 +26,7 @@ _Basics_
  * [Iterable striding](https://github.com/tttgm/code-snippets/blob/master/python-basics/iterable_striding.py)
  * [Starred expressions for collection unpacking](https://github.com/tttgm/code-snippets/blob/master/python-basics/starred_expressions.py)
  * [Custom class example](https://github.com/tttgm/code-snippets/blob/master/python-basics/custom_class_example.py)
+ * [Class variables vs Instance variables](https://github.com/tttgm/code-snippets/blob/master/python-basics/class_vs_instance_variables.py)
  * [Class inheritance example](https://github.com/tttgm/code-snippets/blob/master/python-basics/class_inheritance_example.py)
  * [Zipping with the zip function](https://github.com/tttgm/code-snippets/blob/master/python-basics/zip_function.py)
  * [File walking with the OS module](https://github.com/tttgm/code-snippets/blob/master/python-basics/file_walking_os_module.py)
