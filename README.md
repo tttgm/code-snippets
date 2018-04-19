@@ -37,6 +37,7 @@ _Basics_
  * ['Magic' commands in Jupyter Notebook](https://github.com/tttgm/code-snippets/blob/master/python-basics/jupyter_magic_commands.py)
  * [Timing code and executions in Jupyter Notebooks](https://github.com/tttgm/code-snippets/blob/master/python-basics/timing_code.py)
  * [Interacting with the base shell os in Jupyter NoteBook](https://github.com/tttgm/code-snippets/blob/master/python-basics/interacting_with_os.py)
+ * [Using Jupyter Notebooks directly for a slideshow presentation](https://github.com/tttgm/code-snippets/blob/master/python-basics/using_jupyter_for_slides.py)
  
 _NumPy_
  * [Vectorized conditionals in np arrays](https://github.com/tttgm/code-snippets/blob/master/python-basics/conditionals_numpy.py)
@@ -72,6 +73,7 @@ _Machine Learning_
  * [Generic classification model in sklearn](https://github.com/tttgm/code-snippets/blob/master/machine-learning/generic_classification_func_sklearn.py)
  * [Basic linear and logistic regression in sklearn](https://github.com/tttgm/code-snippets/blob/master/machine-learning/linear_logistic_regression.py)
  * [Get feature 'importances'](https://github.com/tttgm/code-snippets/blob/master/machine-learning/get_feature_importances.py)
+ * [Expand word contractions for NLP](https://github.com/tttgm/code-snippets/blob/master/machine-learning/expanding_contractions.py)
 
 **R**
 
