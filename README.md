@@ -74,6 +74,7 @@ _Machine Learning_
  * [Basic linear and logistic regression in sklearn](https://github.com/tttgm/code-snippets/blob/master/machine-learning/linear_logistic_regression.py)
  * [Get feature 'importances'](https://github.com/tttgm/code-snippets/blob/master/machine-learning/get_feature_importances.py)
  * [Expand word contractions for NLP](https://github.com/tttgm/code-snippets/blob/master/machine-learning/expanding_contractions.py)
+ * [Split a dataset of image files into training and validation sets](https://github.com/tttgm/code-snippets/blob/master/machine-learning/split_image_dataset.py)
 
 **R**
 
