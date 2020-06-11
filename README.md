@@ -67,6 +67,11 @@ _Pandas_
  * [Selecting and indexing a groupby object](https://github.com/tttgm/code-snippets/blob/master/pandas/indexing_and_selecting_groupbys.py)
  * [Iterating and extracting from groupby objects](https://github.com/tttgm/code-snippets/blob/master/pandas/iterating_groupby_objects.py)
  * [Mulitple aggregation func's called on grouped data](https://github.com/tttgm/code-snippets/blob/master/pandas/multiple_aggregation_functions.py)
+ 
+ _Matplotlib/Seaborn_  
+ * [Add data labels to bar charts](https://github.com/tttgm/code-snippets/blob/master/python-plotting/barchart_datalabels.py)
+ * [Save charts/figures](https://github.com/tttgm/code-snippets/blob/master/python-plotting/matplotlib_savefig.py)
+ * [Format date axis in timeseries charts](https://github.com/tttgm/code-snippets/blob/master/python-plotting/nice_dates.py)
 
 _Machine Learning_
  * [Encoding categorical variables for use in sklearn](https://github.com/tttgm/code-snippets/blob/master/machine-learning/encode_variables.py)
